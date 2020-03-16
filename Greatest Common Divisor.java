@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Solution {
     public int gcd(int a, int b) {
         if((a>0 && b==0))
