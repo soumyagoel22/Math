@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Solution {
     public int trailingZeroes(int A) {
         int i,c,n;
