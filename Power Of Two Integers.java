@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Solution {
     public int isPower(int a) {
         if(a==1) return 1;
