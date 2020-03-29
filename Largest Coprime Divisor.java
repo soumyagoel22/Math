@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Solution {
     // public int cpFact(int A, int B) {
     //     int X=1,i,j,k,flag=0;
