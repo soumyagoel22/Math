@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Solution {
     public void arrange(ArrayList<Integer> A) {
          int N = A.size();
