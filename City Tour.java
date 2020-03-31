@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Solution {
     long comb[][] = new long[1001][1001];
     long exp[] = new long[1001];
