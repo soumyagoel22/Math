@@ -1,4 +1,6 @@
+import java.util.*;
 import java.math.BigInteger;
+
 public class Solution {
       public static int findRank(String perm) {
         BigInteger rank = BigInteger.ONE;
