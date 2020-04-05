@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Solution {
     static final int M = 1000003;
  
