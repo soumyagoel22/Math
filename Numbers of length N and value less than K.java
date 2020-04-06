@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Solution {
     public int solve(ArrayList<Integer> A, int B, int C) {
         String str=Integer.toString(C);
